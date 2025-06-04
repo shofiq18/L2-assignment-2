@@ -33,7 +33,7 @@ CREATE TABLE students (
 - **ডকুমেন্টেশন:** ডাটাবেস স্ট্রাকচারের ডকুমেন্টেশন হিসেবে কাজ করে
 
 **উদাহরণ:**
-```sql
+
 -- স্কিমা ক্রিয়েশন
 CREATE SCHEMA university;
 
@@ -42,7 +42,7 @@ CREATE TABLE university.students (
     student_id INT PRIMARY KEY,
     name VARCHAR(100)
 );
-```
+
 
 ## ৩. PostgreSQL-এ প্রাইমারি কী এবং ফরেন কী এর ধারণা ব্যাখ্যা করুন
 
